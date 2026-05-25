@@ -1,0 +1,857 @@
+{
+ "current": "20145788-cb12-d44c-9d0a-16745fb3ad72",
+ "items": [
+  {
+   "meta": {
+    "layout_id": "31d4e556-b0ac-4596-a245-d1f61e33bd3f",
+    "owned_by_user": true,
+    "has_write_access": true,
+    "shared_with": [],
+    "sharing_properties": {},
+    "etag": "45AA31A6738A286CD7F08D02B9C4334E9DFF9CE1"
+   },
+   "body": {
+    "id": "31d4e556-b0ac-4596-a245-d1f61e33bd3f",
+    "display_name": "New layout 2",
+    "is_user_defined": true,
+    "is_for_alarm": false,
+    "alarm_mode": false,
+    "alert_panel_state": {
+     "panel_state": "ALERT_PANEL_STATE_CURRENT_ALERT",
+     "opening_state": "ALERT_PANEL_OPENING_STATE_HIDDEN",
+     "middle_percent": 0.17000000178813934,
+     "control_count_in_line": 1,
+     "event_filter_mask": 15
+    },
+    "map_id": "00000000-0000-0000-0000-000000000000",
+    "map_view_mode": "MAP_VIEW_MODE_LAYOUT_ONLY",
+    "cells": {
+     "1": {
+      "position": 1,
+      "dimensions": {
+       "height": 0.5,
+       "width": 0.5
+      },
+      "left_sibling_position": 0,
+      "right_sibling_position": -1,
+      "top_sibling_position": -1,
+      "bottom_sibling_position": 3,
+      "camera_ap": "hosts/AVGXNUC/DeviceIpint.61/SourceEndpoint.video:0:0",
+      "video_parameters": {
+       "microphone": "",
+       "audio_volume": 50,
+       "show_tracking": false,
+       "auto_tracking": false,
+       "auto_fit": false,
+       "video_filter": "EVideoFilterType_UNSPECIFIED",
+       "rotate_angle": 0,
+       "show_text_source_flags": {},
+       "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+       "equipment_info": {
+        "relays_position": {
+         "positions": [],
+         "visible": true
+        },
+        "sensors_position": {
+         "positions": [],
+         "visible": true
+        },
+        "links_positions": {
+         "positions": [],
+         "visible": true
+        }
+       },
+       "default_zoom_info": {
+        "is_panomorph_on": false,
+        "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+        "zoom_parameters": {
+         "zoom_point": {
+          "x": 0.5,
+          "y": 0.5
+         },
+         "zoom_value": 1
+        }
+       },
+       "should_connect_to_archive": false,
+       "aspect_ratio_type": "DEFAULT",
+       "show_overlay_text": false,
+       "panomorph_view_type": "PTZ",
+       "show_masking": false
+      },
+      "linked_cells": [],
+      "video_stitching_parameters": {
+       "is_stitching_configured": false,
+       "crop": []
+      }
+     },
+     "0": {
+      "position": 0,
+      "dimensions": {
+       "height": 0.5,
+       "width": 0.5
+      },
+      "left_sibling_position": -1,
+      "right_sibling_position": 1,
+      "top_sibling_position": -1,
+      "bottom_sibling_position": 2,
+      "camera_ap": "",
+      "video_parameters": {
+       "microphone": "",
+       "audio_volume": 50,
+       "show_tracking": false,
+       "auto_tracking": false,
+       "auto_fit": false,
+       "video_filter": "EVideoFilterType_UNSPECIFIED",
+       "rotate_angle": 0,
+       "show_text_source_flags": {},
+       "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+       "equipment_info": {
+        "relays_position": {
+         "positions": [],
+         "visible": true
+        },
+        "sensors_position": {
+         "positions": [],
+         "visible": true
+        },
+        "links_positions": {
+         "positions": [],
+         "visible": true
+        }
+       },
+       "should_connect_to_archive": false,
+       "aspect_ratio_type": "DEFAULT",
+       "show_overlay_text": false,
+       "panomorph_view_type": "PTZ",
+       "show_masking": false
+      },
+      "board_settings": {
+       "params": {
+        "hide_panel": false,
+        "open_layout_on_event": false,
+        "selected_filters": [],
+        "name": "",
+        "alarm_board_type": {
+         "filters": []
+        }
+       },
+       "default_view_state": "BOARD_IMAGE_AND_TEXT"
+      },
+      "linked_cells": [],
+      "video_stitching_parameters": {
+       "is_stitching_configured": false,
+       "crop": []
+      }
+     },
+     "3": {
+      "position": 3,
+      "dimensions": {
+       "height": 0.5,
+       "width": 0.5
+      },
+      "left_sibling_position": 2,
+      "right_sibling_position": -1,
+      "top_sibling_position": 1,
+      "bottom_sibling_position": -1,
+      "camera_ap": "hosts/AVGXNUC/DeviceIpint.64/SourceEndpoint.video:0:0",
+      "video_parameters": {
+       "microphone": "",
+       "audio_volume": 50,
+       "show_tracking": false,
+       "auto_tracking": false,
+       "auto_fit": false,
+       "video_filter": "EVideoFilterType_UNSPECIFIED",
+       "rotate_angle": 0,
+       "show_text_source_flags": {},
+       "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+       "equipment_info": {
+        "relays_position": {
+         "positions": [
+          {
+           "component_ap": "hosts/AVGXNUC/DeviceIpint.64/StateControl.relay0:0",
+           "position": {
+            "x": 0,
+            "y": 0
+           }
+          },
+          {
+           "component_ap": "hosts/AVGXNUC/DeviceIpint.64/StateControl.relay0:1",
+           "position": {
+            "x": 0,
+            "y": 0
+           }
+          },
+          {
+           "component_ap": "hosts/AVGXNUC/DeviceIpint.64/StateControl.relay0:2",
+           "position": {
+            "x": 0,
+            "y": 0
+           }
+          },
+          {
+           "component_ap": "hosts/AVGXNUC/DeviceIpint.64/StateControl.relay0:3",
+           "position": {
+            "x": 0,
+            "y": 0
+           }
+          },
+          {
+           "component_ap": "hosts/AVGXNUC/DeviceIpint.64/StateControl.relay0:4",
+           "position": {
+            "x": 0,
+            "y": 0
+           }
+          },
+          {
+           "component_ap": "hosts/AVGXNUC/DeviceIpint.64/StateControl.relay0:5",
+           "position": {
+            "x": 0,
+            "y": 0
+           }
+          },
+          {
+           "component_ap": "hosts/AVGXNUC/DeviceIpint.64/StateControl.relay0:6",
+           "position": {
+            "x": 0,
+            "y": 0
+           }
+          },
+          {
+           "component_ap": "hosts/AVGXNUC/DeviceIpint.64/StateControl.relay0:7",
+           "position": {
+            "x": 0,
+            "y": 0
+           }
+          }
+         ],
+         "visible": true
+        },
+        "sensors_position": {
+         "positions": [
+          {
+           "component_ap": "hosts/AVGXNUC/DeviceIpint.64/EventSupplier.ray0:0",
+           "position": {
+            "x": 0,
+            "y": 0
+           },
+           "icon": {
+            "skin_type": "SKIN_TYPE_UNSPECIFIED",
+            "scale": 0
+           },
+           "label": {
+            "text": "",
+            "font": {
+             "name": "MS Sans Serif",
+             "size": 0.05,
+             "color": {
+              "red": 1,
+              "green": 1,
+              "blue": 1,
+              "alpha": 1
+             },
+             "style": "REGULAR"
+            },
+            "normalized_offset": {
+             "x": 0,
+             "y": 0
+            }
+           }
+          },
+          {
+           "component_ap": "hosts/AVGXNUC/DeviceIpint.64/EventSupplier.ray0:1",
+           "position": {
+            "x": 0,
+            "y": 0
+           },
+           "icon": {
+            "skin_type": "SKIN_TYPE_UNSPECIFIED",
+            "scale": 0
+           },
+           "label": {
+            "text": "",
+            "font": {
+             "name": "MS Sans Serif",
+             "size": 0.05,
+             "color": {
+              "red": 1,
+              "green": 1,
+              "blue": 1,
+              "alpha": 1
+             },
+             "style": "REGULAR"
+            },
+            "normalized_offset": {
+             "x": 0,
+             "y": 0
+            }
+           }
+          },
+          {
+           "component_ap": "hosts/AVGXNUC/DeviceIpint.64/EventSupplier.ray0:2",
+           "position": {
+            "x": 0,
+            "y": 0
+           },
+           "icon": {
+            "skin_type": "SKIN_TYPE_UNSPECIFIED",
+            "scale": 0
+           },
+           "label": {
+            "text": "",
+            "font": {
+             "name": "MS Sans Serif",
+             "size": 0.05,
+             "color": {
+              "red": 1,
+              "green": 1,
+              "blue": 1,
+              "alpha": 1
+             },
+             "style": "REGULAR"
+            },
+            "normalized_offset": {
+             "x": 0,
+             "y": 0
+            }
+           }
+          },
+          {
+           "component_ap": "hosts/AVGXNUC/DeviceIpint.64/EventSupplier.ray0:3",
+           "position": {
+            "x": 0,
+            "y": 0
+           },
+           "icon": {
+            "skin_type": "SKIN_TYPE_UNSPECIFIED",
+            "scale": 0
+           },
+           "label": {
+            "text": "",
+            "font": {
+             "name": "MS Sans Serif",
+             "size": 0.05,
+             "color": {
+              "red": 1,
+              "green": 1,
+              "blue": 1,
+              "alpha": 1
+             },
+             "style": "REGULAR"
+            },
+            "normalized_offset": {
+             "x": 0,
+             "y": 0
+            }
+           }
+          },
+          {
+           "component_ap": "hosts/AVGXNUC/DeviceIpint.64/EventSupplier.ray0:4",
+           "position": {
+            "x": 0,
+            "y": 0
+           },
+           "icon": {
+            "skin_type": "SKIN_TYPE_UNSPECIFIED",
+            "scale": 0
+           },
+           "label": {
+            "text": "",
+            "font": {
+             "name": "MS Sans Serif",
+             "size": 0.05,
+             "color": {
+              "red": 1,
+              "green": 1,
+              "blue": 1,
+              "alpha": 1
+             },
+             "style": "REGULAR"
+            },
+            "normalized_offset": {
+             "x": 0,
+             "y": 0
+            }
+           }
+          },
+          {
+           "component_ap": "hosts/AVGXNUC/DeviceIpint.64/EventSupplier.ray0:5",
+           "position": {
+            "x": 0,
+            "y": 0
+           },
+           "icon": {
+            "skin_type": "SKIN_TYPE_UNSPECIFIED",
+            "scale": 0
+           },
+           "label": {
+            "text": "",
+            "font": {
+             "name": "MS Sans Serif",
+             "size": 0.05,
+             "color": {
+              "red": 1,
+              "green": 1,
+              "blue": 1,
+              "alpha": 1
+             },
+             "style": "REGULAR"
+            },
+            "normalized_offset": {
+             "x": 0,
+             "y": 0
+            }
+           }
+          },
+          {
+           "component_ap": "hosts/AVGXNUC/DeviceIpint.64/EventSupplier.ray0:6",
+           "position": {
+            "x": 0,
+            "y": 0
+           },
+           "icon": {
+            "skin_type": "SKIN_TYPE_UNSPECIFIED",
+            "scale": 0
+           },
+           "label": {
+            "text": "",
+            "font": {
+             "name": "MS Sans Serif",
+             "size": 0.05,
+             "color": {
+              "red": 1,
+              "green": 1,
+              "blue": 1,
+              "alpha": 1
+             },
+             "style": "REGULAR"
+            },
+            "normalized_offset": {
+             "x": 0,
+             "y": 0
+            }
+           }
+          },
+          {
+           "component_ap": "hosts/AVGXNUC/DeviceIpint.64/EventSupplier.ray0:7",
+           "position": {
+            "x": 0,
+            "y": 0
+           },
+           "icon": {
+            "skin_type": "SKIN_TYPE_UNSPECIFIED",
+            "scale": 0
+           },
+           "label": {
+            "text": "",
+            "font": {
+             "name": "MS Sans Serif",
+             "size": 0.05,
+             "color": {
+              "red": 1,
+              "green": 1,
+              "blue": 1,
+              "alpha": 1
+             },
+             "style": "REGULAR"
+            },
+            "normalized_offset": {
+             "x": 0,
+             "y": 0
+            }
+           }
+          }
+         ],
+         "visible": true
+        },
+        "links_positions": {
+         "positions": [],
+         "visible": true
+        }
+       },
+       "default_zoom_info": {
+        "is_panomorph_on": false,
+        "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+        "zoom_parameters": {
+         "zoom_point": {
+          "x": 0.5,
+          "y": 0.5
+         },
+         "zoom_value": 1
+        }
+       },
+       "should_connect_to_archive": false,
+       "aspect_ratio_type": "DEFAULT",
+       "show_overlay_text": false,
+       "panomorph_view_type": "PTZ",
+       "show_masking": false
+      },
+      "linked_cells": [],
+      "video_stitching_parameters": {
+       "is_stitching_configured": false,
+       "crop": []
+      }
+     },
+     "2": {
+      "position": 2,
+      "dimensions": {
+       "height": 0.5,
+       "width": 0.5
+      },
+      "left_sibling_position": -1,
+      "right_sibling_position": 3,
+      "top_sibling_position": 0,
+      "bottom_sibling_position": -1,
+      "camera_ap": "",
+      "video_parameters": {
+       "microphone": "",
+       "audio_volume": 50,
+       "show_tracking": false,
+       "auto_tracking": false,
+       "auto_fit": false,
+       "video_filter": "EVideoFilterType_UNSPECIFIED",
+       "rotate_angle": 0,
+       "show_text_source_flags": {},
+       "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+       "equipment_info": {
+        "relays_position": {
+         "positions": [],
+         "visible": true
+        },
+        "sensors_position": {
+         "positions": [],
+         "visible": true
+        },
+        "links_positions": {
+         "positions": [],
+         "visible": true
+        }
+       },
+       "default_zoom_info": {
+        "is_panomorph_on": false,
+        "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+        "zoom_parameters": {
+         "zoom_point": {
+          "x": 0.5,
+          "y": 0.5
+         },
+         "zoom_value": 1
+        }
+       },
+       "should_connect_to_archive": false,
+       "aspect_ratio_type": "DEFAULT",
+       "show_overlay_text": false,
+       "panomorph_view_type": "PTZ",
+       "show_masking": false
+      },
+      "board_settings": {
+       "params": {
+        "hide_panel": false,
+        "open_layout_on_event": false,
+        "selected_filters": [
+         "{\"Version\":1,\"QueryString\":\"\"}"
+        ],
+        "name": "",
+        "event_board_type": {
+         "strict_filtering": false
+        }
+       },
+       "default_view_state": "BOARD_VIEW_STATE_IMAGE_ONLY"
+      },
+      "linked_cells": [],
+      "video_stitching_parameters": {
+       "is_stitching_configured": false,
+       "crop": []
+      }
+     }
+    },
+    "map_arrangement": {
+     "zoom_value": 0,
+     "map_top_viewport_position": 0,
+     "video_transparency_collection": {},
+     "is_label_on": false,
+     "is_blink_on": false,
+     "is_switch_layouts_on": false,
+     "is_top_view_on": false,
+     "show_offline_cameras": false,
+     "is_thumbnail_3d_on": false
+    }
+   }
+  },
+  {
+   "meta": {
+    "layout_id": "20145788-cb12-d44c-9d0a-16745fb3ad72",
+    "owned_by_user": true,
+    "has_write_access": true,
+    "shared_with": [],
+    "sharing_properties": {},
+    "etag": "EEE7A137B131352CD2BB58993CC71C42E78BF895"
+   },
+   "body": {
+    "id": "20145788-cb12-d44c-9d0a-16745fb3ad72",
+    "display_name": "All",
+    "is_user_defined": true,
+    "is_for_alarm": false,
+    "alarm_mode": false,
+    "map_id": "",
+    "map_view_mode": "MAP_VIEW_MODE_LAYOUT_ONLY",
+    "cells": {
+     "1": {
+      "position": 1,
+      "dimensions": {
+       "height": 0.5,
+       "width": 0.5
+      },
+      "left_sibling_position": 0,
+      "right_sibling_position": -1,
+      "top_sibling_position": -1,
+      "bottom_sibling_position": 3,
+      "camera_ap": "hosts/AVGXNUC/DeviceIpint.61/SourceEndpoint.video:0:0",
+      "video_parameters": {
+       "microphone": "",
+       "audio_volume": 0,
+       "show_tracking": false,
+       "auto_tracking": false,
+       "auto_fit": false,
+       "video_filter": "EVideoFilterType_UNSPECIFIED",
+       "rotate_angle": 0,
+       "show_text_source_flags": {},
+       "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+       "equipment_info": {
+        "relays_position": {
+         "positions": [
+          {
+           "component_ap": "",
+           "position": {
+            "x": 0,
+            "y": 0
+           }
+          }
+         ],
+         "visible": false
+        },
+        "sensors_position": {
+         "positions": [],
+         "visible": false
+        }
+       },
+       "default_zoom_info": {
+        "is_panomorph_on": false,
+        "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+        "zoom_parameters": {
+         "zoom_point": {
+          "x": 0.5,
+          "y": 0.5
+         },
+         "zoom_value": 1
+        }
+       },
+       "should_connect_to_archive": false,
+       "aspect_ratio_type": "DEFAULT",
+       "show_overlay_text": false,
+       "panomorph_view_type": "PTZ",
+       "show_masking": false
+      },
+      "linked_cells": []
+     },
+     "0": {
+      "position": 0,
+      "dimensions": {
+       "height": 0.5,
+       "width": 0.5
+      },
+      "left_sibling_position": -1,
+      "right_sibling_position": 1,
+      "top_sibling_position": -1,
+      "bottom_sibling_position": 2,
+      "camera_ap": "hosts/AVGXNUC/DeviceIpint.60/SourceEndpoint.video:0:0",
+      "video_parameters": {
+       "microphone": "",
+       "audio_volume": 0,
+       "show_tracking": false,
+       "auto_tracking": false,
+       "auto_fit": false,
+       "video_filter": "EVideoFilterType_UNSPECIFIED",
+       "rotate_angle": 0,
+       "show_text_source_flags": {},
+       "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+       "equipment_info": {
+        "relays_position": {
+         "positions": [
+          {
+           "component_ap": "",
+           "position": {
+            "x": 0,
+            "y": 0
+           }
+          }
+         ],
+         "visible": false
+        },
+        "sensors_position": {
+         "positions": [],
+         "visible": false
+        }
+       },
+       "default_zoom_info": {
+        "is_panomorph_on": false,
+        "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+        "zoom_parameters": {
+         "zoom_point": {
+          "x": 0.5,
+          "y": 0.5
+         },
+         "zoom_value": 1
+        }
+       },
+       "should_connect_to_archive": false,
+       "aspect_ratio_type": "DEFAULT",
+       "show_overlay_text": false,
+       "panomorph_view_type": "PTZ",
+       "show_masking": false
+      },
+      "linked_cells": []
+     },
+     "3": {
+      "position": 3,
+      "dimensions": {
+       "height": 0.5,
+       "width": 0.5
+      },
+      "left_sibling_position": 2,
+      "right_sibling_position": -1,
+      "top_sibling_position": 1,
+      "bottom_sibling_position": -1,
+      "camera_ap": "hosts/AVGXNUC/DeviceIpint.64/SourceEndpoint.video:0:0",
+      "video_parameters": {
+       "microphone": "",
+       "audio_volume": 0,
+       "show_tracking": false,
+       "auto_tracking": false,
+       "auto_fit": false,
+       "video_filter": "EVideoFilterType_UNSPECIFIED",
+       "rotate_angle": 0,
+       "show_text_source_flags": {},
+       "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+       "equipment_info": {
+        "relays_position": {
+         "positions": [
+          {
+           "component_ap": "",
+           "position": {
+            "x": 0,
+            "y": 0
+           }
+          }
+         ],
+         "visible": false
+        },
+        "sensors_position": {
+         "positions": [],
+         "visible": false
+        }
+       },
+       "default_zoom_info": {
+        "is_panomorph_on": false,
+        "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+        "zoom_parameters": {
+         "zoom_point": {
+          "x": 0.5,
+          "y": 0.5
+         },
+         "zoom_value": 1
+        }
+       },
+       "should_connect_to_archive": false,
+       "aspect_ratio_type": "DEFAULT",
+       "show_overlay_text": false,
+       "panomorph_view_type": "PTZ",
+       "show_masking": false
+      },
+      "linked_cells": []
+     },
+     "2": {
+      "position": 2,
+      "dimensions": {
+       "height": 0.5,
+       "width": 0.5
+      },
+      "left_sibling_position": -1,
+      "right_sibling_position": 3,
+      "top_sibling_position": 0,
+      "bottom_sibling_position": -1,
+      "camera_ap": "hosts/AVGXNUC/DeviceIpint.62/SourceEndpoint.video:0:0",
+      "video_parameters": {
+       "microphone": "",
+       "audio_volume": 0,
+       "show_tracking": false,
+       "auto_tracking": false,
+       "auto_fit": false,
+       "video_filter": "EVideoFilterType_UNSPECIFIED",
+       "rotate_angle": 0,
+       "show_text_source_flags": {},
+       "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+       "equipment_info": {
+        "relays_position": {
+         "positions": [
+          {
+           "component_ap": "",
+           "position": {
+            "x": 0,
+            "y": 0
+           }
+          }
+         ],
+         "visible": false
+        },
+        "sensors_position": {
+         "positions": [],
+         "visible": false
+        }
+       },
+       "default_zoom_info": {
+        "is_panomorph_on": false,
+        "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+        "zoom_parameters": {
+         "zoom_point": {
+          "x": 0.5,
+          "y": 0.5
+         },
+         "zoom_value": 1
+        }
+       },
+       "should_connect_to_archive": false,
+       "aspect_ratio_type": "DEFAULT",
+       "show_overlay_text": false,
+       "panomorph_view_type": "PTZ",
+       "show_masking": false
+      },
+      "linked_cells": []
+     }
+    }
+   }
+  }
+ ],
+ "special_layouts": {
+  "favorite": {
+   "id": "79f67fa8-f3a2-1de7-9181-a67b7542122c",
+   "enabled": false
+  },
+  "alarm": {
+   "id": "79f67fa8-f3a2-1de7-9181-a67b7542122c",
+   "enabled": false
+  },
+  "dynamic": {
+   "id": "00000000-0000-0000-0000-000000000000",
+   "enabled": true
+  }
+ },
+ "use_current_layout_as_default": true,
+ "slideshows": [
+  {
+   "id": "4ddf282b-c9aa-402e-94d3-26d12538bb36",
+   "layouts_ids": [
+    "31d4e556-b0ac-4596-a245-d1f61e33bd3f"
+   ]
+  }
+ ]
+}

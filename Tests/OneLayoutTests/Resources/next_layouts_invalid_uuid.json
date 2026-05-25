@@ -1,0 +1,780 @@
+{
+  "current": "",
+  "items": [
+    {
+      "body": {
+        "alarm_mode": false,
+        "cells": {
+          "1": {
+            "bottom_sibling_position": 3,
+            "camera_ap": "hosts/AVGXNUC/DeviceIpint.62/SourceEndpoint.video:0:0",
+            "dimensions": {
+              "height": 0.5,
+              "width": 1
+            },
+            "left_sibling_position": -1,
+            "linked_cells": [],
+            "position": 1,
+            "right_sibling_position": -1,
+            "top_sibling_position": -1,
+            "video_parameters": {
+              "aspect_ratio_type": "DEFAULT",
+              "audio_volume": 0,
+              "auto_fit": false,
+              "auto_tracking": false,
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [
+                    {
+                      "component_ap": "",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "visible": false
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": false
+                }
+              },
+              "microphone": "",
+              "panomorph_view_type": "PTZ",
+              "rotate_angle": 0,
+              "should_connect_to_archive": false,
+              "show_masking": false,
+              "show_overlay_text": false,
+              "show_text_source_flags": {
+              },
+              "show_tracking": false,
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_HIGH",
+              "video_filter": "EVideoFilterType_UNSPECIFIED"
+            }
+          },
+          "3": {
+            "bottom_sibling_position": -1,
+            "camera_ap": "hosts/AVGXNUC/DeviceIpint.64/SourceEndpoint.video:0:0",
+            "dimensions": {
+              "height": 0.5,
+              "width": 1
+            },
+            "left_sibling_position": -1,
+            "linked_cells": [],
+            "position": 3,
+            "right_sibling_position": -1,
+            "top_sibling_position": 1,
+            "video_parameters": {
+              "aspect_ratio_type": "DEFAULT",
+              "audio_volume": 0,
+              "auto_fit": false,
+              "auto_tracking": false,
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [
+                    {
+                      "component_ap": "",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "visible": false
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": false
+                }
+              },
+              "microphone": "",
+              "panomorph_view_type": "PTZ",
+              "rotate_angle": 0,
+              "should_connect_to_archive": false,
+              "show_masking": false,
+              "show_overlay_text": false,
+              "show_text_source_flags": {
+              },
+              "show_tracking": false,
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_HIGH",
+              "video_filter": "EVideoFilterType_UNSPECIFIED"
+            }
+          }
+        },
+        "display_name": "New Layout 4",
+        "id": "841dd357-d20d-d573-ec1a-c0a2a661dd72",
+        "is_for_alarm": false,
+        "is_user_defined": true,
+        "map_id": "",
+        "map_view_mode": "MAP_VIEW_MODE_LAYOUT_ONLY"
+      },
+      "meta": {
+        "etag": "C8FD1F32FC5909BDCABAE2B8546523947E9C021C",
+        "has_write_access": true,
+        "layout_id": "841dd357-d20d-d573-ec1a-c0a2a661dd72",
+        "owned_by_user": true,
+        "shared_with": [],
+        "sharing_properties": {
+        }
+      }
+    },
+    {
+      "body": {
+        "alarm_mode": false,
+        "cells": {
+          "1": {
+            "bottom_sibling_position": -1,
+            "camera_ap": "hosts/AVGXNUC/DeviceIpint.62/SourceEndpoint.video:0:0",
+            "dimensions": {
+              "height": 1,
+              "width": 0.5
+            },
+            "left_sibling_position": 2,
+            "linked_cells": [],
+            "position": 1,
+            "right_sibling_position": -1,
+            "top_sibling_position": -1,
+            "video_parameters": {
+              "aspect_ratio_type": "DEFAULT",
+              "audio_volume": 0,
+              "auto_fit": false,
+              "auto_tracking": false,
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [
+                    {
+                      "component_ap": "",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "visible": false
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": false
+                }
+              },
+              "microphone": "",
+              "panomorph_view_type": "PTZ",
+              "rotate_angle": 0,
+              "should_connect_to_archive": false,
+              "show_masking": false,
+              "show_overlay_text": false,
+              "show_text_source_flags": {
+              },
+              "show_tracking": false,
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_LOW",
+              "video_filter": "EVideoFilterType_UNSPECIFIED"
+            }
+          },
+          "2": {
+            "bottom_sibling_position": -1,
+            "camera_ap": "hosts/AVGXNUC/DeviceIpint.64/SourceEndpoint.video:0:0",
+            "dimensions": {
+              "height": 1,
+              "width": 0.5
+            },
+            "left_sibling_position": -1,
+            "linked_cells": [],
+            "position": 2,
+            "right_sibling_position": 1,
+            "top_sibling_position": -1,
+            "video_parameters": {
+              "aspect_ratio_type": "DEFAULT",
+              "audio_volume": 0,
+              "auto_fit": false,
+              "auto_tracking": false,
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [
+                    {
+                      "component_ap": "",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "visible": false
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": false
+                }
+              },
+              "microphone": "",
+              "panomorph_view_type": "PTZ",
+              "rotate_angle": 0,
+              "should_connect_to_archive": false,
+              "show_masking": false,
+              "show_overlay_text": false,
+              "show_text_source_flags": {
+              },
+              "show_tracking": false,
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_LOW",
+              "video_filter": "EVideoFilterType_UNSPECIFIED"
+            }
+          }
+        },
+        "display_name": "New Layout 3",
+        "id": "138f6d8e-4e25-6b40-5093-16d79582efcd",
+        "is_for_alarm": false,
+        "is_user_defined": true,
+        "map_id": "",
+        "map_view_mode": "MAP_VIEW_MODE_LAYOUT_ONLY"
+      },
+      "meta": {
+        "etag": "6561890DD050FAFC8936FECA371E3779F49A5374",
+        "has_write_access": true,
+        "layout_id": "138f6d8e-4e25-6b40-5093-16d79582efcd",
+        "owned_by_user": true,
+        "shared_with": [],
+        "sharing_properties": {
+        }
+      }
+    },
+    {
+      "body": {
+        "alarm_mode": false,
+        "cells": {
+          "1": {
+            "bottom_sibling_position": 3,
+            "camera_ap": "hosts/AVGXNUC/DeviceIpint.62/SourceEndpoint.video:0:0",
+            "dimensions": {
+              "height": 0.5,
+              "width": 1
+            },
+            "left_sibling_position": -1,
+            "linked_cells": [],
+            "position": 1,
+            "right_sibling_position": -1,
+            "top_sibling_position": -1,
+            "video_parameters": {
+              "aspect_ratio_type": "DEFAULT",
+              "audio_volume": 0,
+              "auto_fit": false,
+              "auto_tracking": false,
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [
+                    {
+                      "component_ap": "",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "visible": false
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": false
+                }
+              },
+              "microphone": "",
+              "panomorph_view_type": "PTZ",
+              "rotate_angle": 0,
+              "should_connect_to_archive": false,
+              "show_masking": false,
+              "show_overlay_text": false,
+              "show_text_source_flags": {
+              },
+              "show_tracking": false,
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "video_filter": "EVideoFilterType_UNSPECIFIED"
+            }
+          },
+          "3": {
+            "bottom_sibling_position": -1,
+            "camera_ap": "hosts/AVGXNUC/DeviceIpint.64/SourceEndpoint.video:0:0",
+            "dimensions": {
+              "height": 0.5,
+              "width": 1
+            },
+            "left_sibling_position": -1,
+            "linked_cells": [],
+            "position": 3,
+            "right_sibling_position": -1,
+            "top_sibling_position": 1,
+            "video_parameters": {
+              "aspect_ratio_type": "DEFAULT",
+              "audio_volume": 0,
+              "auto_fit": false,
+              "auto_tracking": false,
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [
+                    {
+                      "component_ap": "",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "visible": false
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": false
+                }
+              },
+              "microphone": "",
+              "panomorph_view_type": "PTZ",
+              "rotate_angle": 0,
+              "should_connect_to_archive": false,
+              "show_masking": false,
+              "show_overlay_text": false,
+              "show_text_source_flags": {
+              },
+              "show_tracking": false,
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "video_filter": "EVideoFilterType_UNSPECIFIED"
+            }
+          }
+        },
+        "display_name": "New Layout 2",
+        "id": "9814cdbf-93b9-35e5-9767-16c42943f400",
+        "is_for_alarm": false,
+        "is_user_defined": true,
+        "map_id": "",
+        "map_view_mode": "MAP_VIEW_MODE_LAYOUT_ONLY"
+      },
+      "meta": {
+        "etag": "4BD21E1C8A816CA2D043910ED9AC0805FBBF6EA4",
+        "has_write_access": true,
+        "layout_id": "9814cdbf-93b9-35e5-9767-16c42943f400",
+        "owned_by_user": true,
+        "shared_with": [],
+        "sharing_properties": {
+        }
+      }
+    },
+    {
+      "body": {
+        "alarm_mode": false,
+        "cells": {
+          "0": {
+            "bottom_sibling_position": 2,
+            "camera_ap": "hosts/AVGXNUC/DeviceIpint.62/SourceEndpoint.video:0:0",
+            "dimensions": {
+              "height": 0.5,
+              "width": 1
+            },
+            "left_sibling_position": -1,
+            "linked_cells": [],
+            "position": 0,
+            "right_sibling_position": -1,
+            "top_sibling_position": -1,
+            "video_parameters": {
+              "aspect_ratio_type": "DEFAULT",
+              "audio_volume": 0,
+              "auto_fit": false,
+              "auto_tracking": false,
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [
+                    {
+                      "component_ap": "",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "visible": false
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": false
+                }
+              },
+              "microphone": "",
+              "panomorph_view_type": "PTZ",
+              "rotate_angle": 0,
+              "should_connect_to_archive": false,
+              "show_masking": false,
+              "show_overlay_text": false,
+              "show_text_source_flags": {
+              },
+              "show_tracking": false,
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "video_filter": "EVideoFilterType_UNSPECIFIED"
+            }
+          },
+          "2": {
+            "bottom_sibling_position": -1,
+            "camera_ap": "hosts/AVGXNUC/DeviceIpint.64/SourceEndpoint.video:0:0",
+            "dimensions": {
+              "height": 0.5,
+              "width": 0.5
+            },
+            "left_sibling_position": -1,
+            "linked_cells": [],
+            "position": 2,
+            "right_sibling_position": 3,
+            "top_sibling_position": 0,
+            "video_parameters": {
+              "aspect_ratio_type": "DEFAULT",
+              "audio_volume": 0,
+              "auto_fit": false,
+              "auto_tracking": false,
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [
+                    {
+                      "component_ap": "",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "visible": false
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": false
+                }
+              },
+              "microphone": "",
+              "panomorph_view_type": "PTZ",
+              "rotate_angle": 0,
+              "should_connect_to_archive": false,
+              "show_masking": false,
+              "show_overlay_text": false,
+              "show_text_source_flags": {
+              },
+              "show_tracking": false,
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_HIGH",
+              "video_filter": "EVideoFilterType_UNSPECIFIED"
+            }
+          },
+          "3": {
+            "bottom_sibling_position": -1,
+            "camera_ap": "hosts/AVGXNUC/DeviceIpint.64/SourceEndpoint.video:0:0",
+            "dimensions": {
+              "height": 0.5,
+              "width": 0.5
+            },
+            "left_sibling_position": 2,
+            "linked_cells": [],
+            "position": 3,
+            "right_sibling_position": -1,
+            "top_sibling_position": 0,
+            "video_parameters": {
+              "aspect_ratio_type": "DEFAULT",
+              "audio_volume": 0,
+              "auto_fit": false,
+              "auto_tracking": false,
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [
+                    {
+                      "component_ap": "",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "visible": false
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": false
+                }
+              },
+              "microphone": "",
+              "panomorph_view_type": "PTZ",
+              "rotate_angle": 0,
+              "should_connect_to_archive": false,
+              "show_masking": false,
+              "show_overlay_text": false,
+              "show_text_source_flags": {
+              },
+              "show_tracking": false,
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "video_filter": "EVideoFilterType_UNSPECIFIED"
+            }
+          }
+        },
+        "display_name": "New Layout 1",
+        "id": "153e4605-75b1-a804-f481-321f726be489",
+        "is_for_alarm": false,
+        "is_user_defined": true,
+        "map_id": "",
+        "map_view_mode": "MAP_VIEW_MODE_LAYOUT_ONLY"
+      },
+      "meta": {
+        "etag": "7392069A1271009063F0BFD97989B484D1AB6650",
+        "has_write_access": true,
+        "layout_id": "153e4605-75b1-a804-f481-321f726be489",
+        "owned_by_user": true,
+        "shared_with": [],
+        "sharing_properties": {
+        }
+      }
+    },
+    {
+      "body": {
+        "alarm_mode": false,
+        "cells": {
+          "0": {
+            "bottom_sibling_position": -1,
+            "camera_ap": "hosts/AVGXNUC/DeviceIpint.62/SourceEndpoint.video:0:0",
+            "dimensions": {
+              "height": 1,
+              "width": 0.5
+            },
+            "left_sibling_position": -1,
+            "linked_cells": [],
+            "position": 0,
+            "right_sibling_position": 1,
+            "top_sibling_position": -1,
+            "video_parameters": {
+              "aspect_ratio_type": "DEFAULT",
+              "audio_volume": 0,
+              "auto_fit": false,
+              "auto_tracking": false,
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [
+                    {
+                      "component_ap": "",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "visible": false
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": false
+                }
+              },
+              "microphone": "",
+              "panomorph_view_type": "PTZ",
+              "rotate_angle": 0,
+              "should_connect_to_archive": false,
+              "show_masking": false,
+              "show_overlay_text": false,
+              "show_text_source_flags": {
+              },
+              "show_tracking": false,
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "video_filter": "EVideoFilterType_UNSPECIFIED"
+            }
+          },
+          "1": {
+            "bottom_sibling_position": -1,
+            "camera_ap": "hosts/AVGXNUC/DeviceIpint.64/SourceEndpoint.video:0:0",
+            "dimensions": {
+              "height": 1,
+              "width": 0.5
+            },
+            "left_sibling_position": 0,
+            "linked_cells": [],
+            "position": 1,
+            "right_sibling_position": -1,
+            "top_sibling_position": -1,
+            "video_parameters": {
+              "aspect_ratio_type": "DEFAULT",
+              "audio_volume": 0,
+              "auto_fit": false,
+              "auto_tracking": false,
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [
+                    {
+                      "component_ap": "",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "visible": false
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": false
+                }
+              },
+              "microphone": "",
+              "panomorph_view_type": "PTZ",
+              "rotate_angle": 0,
+              "should_connect_to_archive": false,
+              "show_masking": false,
+              "show_overlay_text": false,
+              "show_text_source_flags": {
+              },
+              "show_tracking": false,
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "video_filter": "EVideoFilterType_UNSPECIFIED"
+            }
+          }
+        },
+        "display_name": "New Layout",
+        "id": "162f0441-0482-0688-ddfb-1538b2ccc9e2",
+        "is_for_alarm": false,
+        "is_user_defined": true,
+        "map_id": "",
+        "map_view_mode": "MAP_VIEW_MODE_LAYOUT_ONLY"
+      },
+      "meta": {
+        "etag": "80ABBE1FA49B91D1562A39AC91AB90564A344D56",
+        "has_write_access": true,
+        "layout_id": "162f0441-0482-0688-ddfb-1538b2ccc9e2",
+        "owned_by_user": true,
+        "shared_with": [],
+        "sharing_properties": {
+        }
+      }
+    }
+  ],
+  "slideshows": [],
+  "special_layouts": {
+    "alarm": {
+      "enabled": false,
+      "id": ""
+    },
+    "dynamic": {
+      "enabled": false,
+      "id": ""
+    },
+    "favorite": {
+      "enabled": false,
+      "id": ""
+    }
+  },
+  "use_current_layout_as_default": false
+}
