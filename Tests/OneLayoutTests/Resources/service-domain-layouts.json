@@ -1,0 +1,1013 @@
+{
+  "current": "b055f1f3-ab2f-47e5-9f2e-b1fd98595096",
+  "items": [
+    {
+      "meta": {
+        "layout_id": "fc90f5f2-d539-4fb4-9635-89e2e0b7f49b",
+        "owned_by_user": true,
+        "has_write_access": true,
+        "shared_with": [],
+        "sharing_properties": {},
+        "etag": "BB794EE59338EF8A98B606982F807151DA4C4CDA"
+      },
+      "body": {
+        "id": "fc90f5f2-d539-4fb4-9635-89e2e0b7f49b",
+        "display_name": "New layout 2",
+        "is_user_defined": true,
+        "is_for_alarm": false,
+        "alarm_mode": false,
+        "alert_panel_state": {
+          "panel_state": "ALERT_PANEL_STATE_CURRENT_ALERT",
+          "opening_state": "ALERT_PANEL_OPENING_STATE_HIDDEN",
+          "middle_percent": 0.17000000178813934,
+          "control_count_in_line": 1,
+          "event_filter_mask": 15
+        },
+        "map_id": "00000000-0000-0000-0000-000000000000",
+        "map_view_mode": "MAP_VIEW_MODE_LAYOUT_ONLY",
+        "cells": {
+          "5": {
+            "position": 5,
+            "dimensions": {
+              "height": 0.3333333432674408,
+              "width": 0.3333333432674408
+            },
+            "left_sibling_position": 4,
+            "right_sibling_position": -1,
+            "top_sibling_position": 2,
+            "bottom_sibling_position": 8,
+            "camera_ap": "hosts/Node-C/DeviceIpint.2/SourceEndpoint.video:0:0",
+            "video_parameters": {
+              "microphone": "",
+              "audio_volume": 50,
+              "show_tracking": false,
+              "auto_tracking": false,
+              "auto_fit": false,
+              "video_filter": "EVideoFilterType_UNSPECIFIED",
+              "rotate_angle": 0,
+              "show_text_source_flags": {},
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "sensors_position": {
+                  "positions": [
+                    {
+                      "component_ap": "hosts/Node-C/AVDetector.2/EventSupplier",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "icon": {
+                        "skin_type": "SKIN_TYPE_UNSPECIFIED",
+                        "scale": 0
+                      },
+                      "label": {
+                        "text": "",
+                        "font": {
+                          "name": "MS Sans Serif",
+                          "size": 0.05,
+                          "color": {
+                            "red": 1,
+                            "green": 1,
+                            "blue": 1,
+                            "alpha": 1
+                          },
+                          "style": "REGULAR"
+                        },
+                        "normalized_offset": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      }
+                    }
+                  ],
+                  "visible": true
+                },
+                "links_positions": {
+                  "positions": [],
+                  "visible": true
+                }
+              },
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "should_connect_to_archive": false,
+              "aspect_ratio_type": "DEFAULT",
+              "show_overlay_text": false,
+              "panomorph_view_type": "PTZ",
+              "show_masking": false
+            },
+            "linked_cells": [],
+            "video_stitching_parameters": {
+              "is_stitching_configured": false,
+              "crop": []
+            }
+          },
+          "4": {
+            "position": 4,
+            "dimensions": {
+              "height": 0.3333333432674408,
+              "width": 0.3333333432674408
+            },
+            "left_sibling_position": 3,
+            "right_sibling_position": 5,
+            "top_sibling_position": 1,
+            "bottom_sibling_position": 7,
+            "camera_ap": "hosts/Node-B/DeviceIpint.2/SourceEndpoint.video:0:0",
+            "video_parameters": {
+              "microphone": "",
+              "audio_volume": 50,
+              "show_tracking": false,
+              "auto_tracking": false,
+              "auto_fit": false,
+              "video_filter": "EVideoFilterType_UNSPECIFIED",
+              "rotate_angle": 0,
+              "show_text_source_flags": {},
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "links_positions": {
+                  "positions": [],
+                  "visible": true
+                }
+              },
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "should_connect_to_archive": false,
+              "aspect_ratio_type": "DEFAULT",
+              "show_overlay_text": false,
+              "panomorph_view_type": "PTZ",
+              "show_masking": false
+            },
+            "linked_cells": [],
+            "video_stitching_parameters": {
+              "is_stitching_configured": false,
+              "crop": []
+            }
+          },
+          "7": {
+            "position": 7,
+            "dimensions": {
+              "height": 0.3333333432674408,
+              "width": 0.3333333432674408
+            },
+            "left_sibling_position": 6,
+            "right_sibling_position": 8,
+            "top_sibling_position": 4,
+            "bottom_sibling_position": -1,
+            "camera_ap": "",
+            "video_parameters": {
+              "microphone": "",
+              "audio_volume": 50,
+              "show_tracking": false,
+              "auto_tracking": false,
+              "auto_fit": false,
+              "video_filter": "EVideoFilterType_UNSPECIFIED",
+              "rotate_angle": 0,
+              "show_text_source_flags": {},
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "links_positions": {
+                  "positions": [],
+                  "visible": true
+                }
+              },
+              "should_connect_to_archive": false,
+              "aspect_ratio_type": "DEFAULT",
+              "show_overlay_text": false,
+              "panomorph_view_type": "PTZ",
+              "show_masking": false
+            },
+            "linked_cells": [],
+            "video_stitching_parameters": {
+              "is_stitching_configured": false,
+              "crop": []
+            }
+          },
+          "6": {
+            "position": 6,
+            "dimensions": {
+              "height": 0.3333333432674408,
+              "width": 0.3333333432674408
+            },
+            "left_sibling_position": -1,
+            "right_sibling_position": 7,
+            "top_sibling_position": 3,
+            "bottom_sibling_position": -1,
+            "camera_ap": "hosts/Node-C/DeviceIpint.3/SourceEndpoint.video:0:0",
+            "video_parameters": {
+              "microphone": "",
+              "audio_volume": 50,
+              "show_tracking": false,
+              "auto_tracking": false,
+              "auto_fit": false,
+              "video_filter": "EVideoFilterType_UNSPECIFIED",
+              "rotate_angle": 0,
+              "show_text_source_flags": {},
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "links_positions": {
+                  "positions": [],
+                  "visible": true
+                }
+              },
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "should_connect_to_archive": false,
+              "aspect_ratio_type": "DEFAULT",
+              "show_overlay_text": false,
+              "panomorph_view_type": "PTZ",
+              "show_masking": false
+            },
+            "linked_cells": [],
+            "video_stitching_parameters": {
+              "is_stitching_configured": false,
+              "crop": []
+            }
+          },
+          "1": {
+            "position": 1,
+            "dimensions": {
+              "height": 0.3333333432674408,
+              "width": 0.3333333432674408
+            },
+            "left_sibling_position": 0,
+            "right_sibling_position": 2,
+            "top_sibling_position": -1,
+            "bottom_sibling_position": 4,
+            "camera_ap": "hosts/Node-B/DeviceIpint.1/SourceEndpoint.video:0:0",
+            "video_parameters": {
+              "microphone": "",
+              "audio_volume": 50,
+              "show_tracking": false,
+              "auto_tracking": false,
+              "auto_fit": false,
+              "video_filter": "EVideoFilterType_UNSPECIFIED",
+              "rotate_angle": 0,
+              "show_text_source_flags": {},
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [
+                    {
+                      "component_ap": "hosts/Node-B/DeviceIpint.1/StateControl.relay0:0",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "visible": true
+                },
+                "sensors_position": {
+                  "positions": [
+                    {
+                      "component_ap": "hosts/Node-B/DeviceIpint.1/EventSupplier.ray0:0",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "icon": {
+                        "skin_type": "SKIN_TYPE_UNSPECIFIED",
+                        "scale": 0
+                      },
+                      "label": {
+                        "text": "",
+                        "font": {
+                          "name": "MS Sans Serif",
+                          "size": 0.05,
+                          "color": {
+                            "red": 1,
+                            "green": 1,
+                            "blue": 1,
+                            "alpha": 1
+                          },
+                          "style": "REGULAR"
+                        },
+                        "normalized_offset": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      }
+                    }
+                  ],
+                  "visible": true
+                },
+                "links_positions": {
+                  "positions": [],
+                  "visible": true
+                }
+              },
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "should_connect_to_archive": false,
+              "aspect_ratio_type": "DEFAULT",
+              "show_overlay_text": false,
+              "panomorph_view_type": "PTZ",
+              "show_masking": false
+            },
+            "linked_cells": [],
+            "video_stitching_parameters": {
+              "is_stitching_configured": false,
+              "crop": []
+            }
+          },
+          "0": {
+            "position": 0,
+            "dimensions": {
+              "height": 0.3333333432674408,
+              "width": 0.3333333432674408
+            },
+            "left_sibling_position": -1,
+            "right_sibling_position": 1,
+            "top_sibling_position": -1,
+            "bottom_sibling_position": 3,
+            "camera_ap": "hosts/Node-A/DeviceIpint.1/SourceEndpoint.video:0:0",
+            "video_parameters": {
+              "microphone": "",
+              "audio_volume": 50,
+              "show_tracking": false,
+              "auto_tracking": false,
+              "auto_fit": false,
+              "video_filter": "EVideoFilterType_UNSPECIFIED",
+              "rotate_angle": 0,
+              "show_text_source_flags": {},
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "links_positions": {
+                  "positions": [],
+                  "visible": true
+                }
+              },
+              "should_connect_to_archive": false,
+              "aspect_ratio_type": "DEFAULT",
+              "show_overlay_text": false,
+              "panomorph_view_type": "PTZ",
+              "show_masking": false
+            },
+            "linked_cells": [],
+            "video_stitching_parameters": {
+              "is_stitching_configured": false,
+              "crop": []
+            }
+          },
+          "3": {
+            "position": 3,
+            "dimensions": {
+              "height": 0.3333333432674408,
+              "width": 0.3333333432674408
+            },
+            "left_sibling_position": -1,
+            "right_sibling_position": 4,
+            "top_sibling_position": 0,
+            "bottom_sibling_position": 6,
+            "camera_ap": "hosts/Node-A/DeviceIpint.2/SourceEndpoint.video:0:0",
+            "video_parameters": {
+              "microphone": "",
+              "audio_volume": 50,
+              "show_tracking": false,
+              "auto_tracking": false,
+              "auto_fit": false,
+              "video_filter": "EVideoFilterType_UNSPECIFIED",
+              "rotate_angle": 0,
+              "show_text_source_flags": {},
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "links_positions": {
+                  "positions": [],
+                  "visible": true
+                }
+              },
+              "should_connect_to_archive": false,
+              "aspect_ratio_type": "DEFAULT",
+              "show_overlay_text": false,
+              "panomorph_view_type": "PTZ",
+              "show_masking": false
+            },
+            "linked_cells": [],
+            "video_stitching_parameters": {
+              "is_stitching_configured": false,
+              "crop": []
+            }
+          },
+          "2": {
+            "position": 2,
+            "dimensions": {
+              "height": 0.3333333432674408,
+              "width": 0.3333333432674408
+            },
+            "left_sibling_position": 1,
+            "right_sibling_position": -1,
+            "top_sibling_position": -1,
+            "bottom_sibling_position": 5,
+            "camera_ap": "hosts/Node-C/DeviceIpint.1/SourceEndpoint.video:0:0",
+            "video_parameters": {
+              "microphone": "",
+              "audio_volume": 50,
+              "show_tracking": false,
+              "auto_tracking": false,
+              "auto_fit": false,
+              "video_filter": "EVideoFilterType_UNSPECIFIED",
+              "rotate_angle": 0,
+              "show_text_source_flags": {},
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "sensors_position": {
+                  "positions": [
+                    {
+                      "component_ap": "hosts/Node-C/AVDetector.1/EventSupplier",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "icon": {
+                        "skin_type": "SKIN_TYPE_UNSPECIFIED",
+                        "scale": 0
+                      },
+                      "label": {
+                        "text": "",
+                        "font": {
+                          "name": "MS Sans Serif",
+                          "size": 0.05,
+                          "color": {
+                            "red": 1,
+                            "green": 1,
+                            "blue": 1,
+                            "alpha": 1
+                          },
+                          "style": "REGULAR"
+                        },
+                        "normalized_offset": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      }
+                    }
+                  ],
+                  "visible": true
+                },
+                "links_positions": {
+                  "positions": [],
+                  "visible": true
+                }
+              },
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "should_connect_to_archive": false,
+              "aspect_ratio_type": "DEFAULT",
+              "show_overlay_text": false,
+              "panomorph_view_type": "PTZ",
+              "show_masking": false
+            },
+            "linked_cells": [],
+            "video_stitching_parameters": {
+              "is_stitching_configured": false,
+              "crop": []
+            }
+          },
+          "8": {
+            "position": 8,
+            "dimensions": {
+              "height": 0.3333333432674408,
+              "width": 0.3333333432674408
+            },
+            "left_sibling_position": 7,
+            "right_sibling_position": -1,
+            "top_sibling_position": 5,
+            "bottom_sibling_position": -1,
+            "camera_ap": "",
+            "video_parameters": {
+              "microphone": "",
+              "audio_volume": 50,
+              "show_tracking": false,
+              "auto_tracking": false,
+              "auto_fit": false,
+              "video_filter": "EVideoFilterType_UNSPECIFIED",
+              "rotate_angle": 0,
+              "show_text_source_flags": {},
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "links_positions": {
+                  "positions": [],
+                  "visible": true
+                }
+              },
+              "should_connect_to_archive": false,
+              "aspect_ratio_type": "DEFAULT",
+              "show_overlay_text": false,
+              "panomorph_view_type": "PTZ",
+              "show_masking": false
+            },
+            "linked_cells": [],
+            "video_stitching_parameters": {
+              "is_stitching_configured": false,
+              "crop": []
+            }
+          }
+        },
+        "map_arrangement": {
+          "zoom_value": 0,
+          "map_top_viewport_position": 0,
+          "video_transparency_collection": {},
+          "is_label_on": false,
+          "is_blink_on": false,
+          "is_switch_layouts_on": false,
+          "is_top_view_on": false,
+          "show_offline_cameras": false,
+          "is_thumbnail_3d_on": false
+        }
+      }
+    },
+    {
+      "meta": {
+        "layout_id": "900f3831-ea20-4d5a-8482-92dfbeb71ff5",
+        "owned_by_user": true,
+        "has_write_access": true,
+        "shared_with": [],
+        "sharing_properties": {},
+        "etag": "E36B0743C1C48DD436391C47CEB0800635022B00"
+      },
+      "body": {
+        "id": "900f3831-ea20-4d5a-8482-92dfbeb71ff5",
+        "display_name": "New layout 1",
+        "is_user_defined": true,
+        "is_for_alarm": false,
+        "alarm_mode": false,
+        "alert_panel_state": {
+          "panel_state": "ALERT_PANEL_STATE_CURRENT_ALERT",
+          "opening_state": "ALERT_PANEL_OPENING_STATE_HIDDEN",
+          "middle_percent": 0.17000000178813934,
+          "control_count_in_line": 1,
+          "event_filter_mask": 15
+        },
+        "map_id": "00000000-0000-0000-0000-000000000000",
+        "map_view_mode": "MAP_VIEW_MODE_LAYOUT_ONLY",
+        "cells": {
+          "1": {
+            "position": 1,
+            "dimensions": {
+              "height": 0.5,
+              "width": 0.5
+            },
+            "left_sibling_position": 0,
+            "right_sibling_position": -1,
+            "top_sibling_position": -1,
+            "bottom_sibling_position": 3,
+            "camera_ap": "hosts/Node-B/DeviceIpint.1/SourceEndpoint.video:0:0",
+            "video_parameters": {
+              "microphone": "",
+              "audio_volume": 50,
+              "show_tracking": false,
+              "auto_tracking": false,
+              "auto_fit": false,
+              "video_filter": "EVideoFilterType_UNSPECIFIED",
+              "rotate_angle": 0,
+              "show_text_source_flags": {},
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [
+                    {
+                      "component_ap": "hosts/Node-B/DeviceIpint.1/StateControl.relay0:0",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    }
+                  ],
+                  "visible": true
+                },
+                "sensors_position": {
+                  "positions": [
+                    {
+                      "component_ap": "hosts/Node-B/DeviceIpint.1/EventSupplier.ray0:0",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "icon": {
+                        "skin_type": "SKIN_TYPE_UNSPECIFIED",
+                        "scale": 0
+                      },
+                      "label": {
+                        "text": "",
+                        "font": {
+                          "name": "MS Sans Serif",
+                          "size": 0.05,
+                          "color": {
+                            "red": 1,
+                            "green": 1,
+                            "blue": 1,
+                            "alpha": 1
+                          },
+                          "style": "REGULAR"
+                        },
+                        "normalized_offset": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      }
+                    }
+                  ],
+                  "visible": true
+                },
+                "links_positions": {
+                  "positions": [],
+                  "visible": true
+                }
+              },
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "should_connect_to_archive": false,
+              "aspect_ratio_type": "DEFAULT",
+              "show_overlay_text": false,
+              "panomorph_view_type": "PTZ",
+              "show_masking": false
+            },
+            "linked_cells": [],
+            "video_stitching_parameters": {
+              "is_stitching_configured": false,
+              "crop": []
+            }
+          },
+          "0": {
+            "position": 0,
+            "dimensions": {
+              "height": 0.5,
+              "width": 0.5
+            },
+            "left_sibling_position": -1,
+            "right_sibling_position": 1,
+            "top_sibling_position": -1,
+            "bottom_sibling_position": 2,
+            "camera_ap": "hosts/Node-C/DeviceIpint.2/SourceEndpoint.video:0:0",
+            "video_parameters": {
+              "microphone": "",
+              "audio_volume": 50,
+              "show_tracking": false,
+              "auto_tracking": false,
+              "auto_fit": false,
+              "video_filter": "EVideoFilterType_UNSPECIFIED",
+              "rotate_angle": 0,
+              "show_text_source_flags": {},
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "sensors_position": {
+                  "positions": [
+                    {
+                      "component_ap": "hosts/Node-C/AVDetector.2/EventSupplier",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "icon": {
+                        "skin_type": "SKIN_TYPE_UNSPECIFIED",
+                        "scale": 0
+                      },
+                      "label": {
+                        "text": "",
+                        "font": {
+                          "name": "MS Sans Serif",
+                          "size": 0.05,
+                          "color": {
+                            "red": 1,
+                            "green": 1,
+                            "blue": 1,
+                            "alpha": 1
+                          },
+                          "style": "REGULAR"
+                        },
+                        "normalized_offset": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      }
+                    }
+                  ],
+                  "visible": true
+                },
+                "links_positions": {
+                  "positions": [],
+                  "visible": true
+                }
+              },
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "should_connect_to_archive": false,
+              "aspect_ratio_type": "DEFAULT",
+              "show_overlay_text": false,
+              "panomorph_view_type": "PTZ",
+              "show_masking": false
+            },
+            "linked_cells": [],
+            "video_stitching_parameters": {
+              "is_stitching_configured": false,
+              "crop": []
+            }
+          },
+          "3": {
+            "position": 3,
+            "dimensions": {
+              "height": 0.5,
+              "width": 0.5
+            },
+            "left_sibling_position": 2,
+            "right_sibling_position": -1,
+            "top_sibling_position": 1,
+            "bottom_sibling_position": -1,
+            "camera_ap": "hosts/Node-B/DeviceIpint.2/SourceEndpoint.video:0:0",
+            "video_parameters": {
+              "microphone": "",
+              "audio_volume": 50,
+              "show_tracking": false,
+              "auto_tracking": false,
+              "auto_fit": false,
+              "video_filter": "EVideoFilterType_UNSPECIFIED",
+              "rotate_angle": 0,
+              "show_text_source_flags": {},
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "sensors_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "links_positions": {
+                  "positions": [],
+                  "visible": true
+                }
+              },
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "should_connect_to_archive": false,
+              "aspect_ratio_type": "DEFAULT",
+              "show_overlay_text": false,
+              "panomorph_view_type": "PTZ",
+              "show_masking": false
+            },
+            "linked_cells": [],
+            "video_stitching_parameters": {
+              "is_stitching_configured": false,
+              "crop": []
+            }
+          },
+          "2": {
+            "position": 2,
+            "dimensions": {
+              "height": 0.5,
+              "width": 0.5
+            },
+            "left_sibling_position": -1,
+            "right_sibling_position": 3,
+            "top_sibling_position": 0,
+            "bottom_sibling_position": -1,
+            "camera_ap": "hosts/Node-C/DeviceIpint.1/SourceEndpoint.video:0:0",
+            "video_parameters": {
+              "microphone": "",
+              "audio_volume": 50,
+              "show_tracking": false,
+              "auto_tracking": false,
+              "auto_fit": false,
+              "video_filter": "EVideoFilterType_UNSPECIFIED",
+              "rotate_angle": 0,
+              "show_text_source_flags": {},
+              "stream_resolution": "CAMERA_STREAM_RESOLUTION_AUTO",
+              "equipment_info": {
+                "relays_position": {
+                  "positions": [],
+                  "visible": true
+                },
+                "sensors_position": {
+                  "positions": [
+                    {
+                      "component_ap": "hosts/Node-C/AVDetector.1/EventSupplier",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "icon": {
+                        "skin_type": "SKIN_TYPE_UNSPECIFIED",
+                        "scale": 0
+                      },
+                      "label": {
+                        "text": "",
+                        "font": {
+                          "name": "MS Sans Serif",
+                          "size": 0.05,
+                          "color": {
+                            "red": 1,
+                            "green": 1,
+                            "blue": 1,
+                            "alpha": 1
+                          },
+                          "style": "REGULAR"
+                        },
+                        "normalized_offset": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      }
+                    }
+                  ],
+                  "visible": true
+                },
+                "links_positions": {
+                  "positions": [],
+                  "visible": true
+                }
+              },
+              "default_zoom_info": {
+                "is_panomorph_on": false,
+                "panomorph_position": "PANOMORPH_CAMERAPOSITION_WALL",
+                "zoom_parameters": {
+                  "zoom_point": {
+                    "x": 0.5,
+                    "y": 0.5
+                  },
+                  "zoom_value": 1
+                }
+              },
+              "should_connect_to_archive": false,
+              "aspect_ratio_type": "DEFAULT",
+              "show_overlay_text": false,
+              "panomorph_view_type": "PTZ",
+              "show_masking": false
+            },
+            "linked_cells": [],
+            "video_stitching_parameters": {
+              "is_stitching_configured": false,
+              "crop": []
+            }
+          }
+        },
+        "map_arrangement": {
+          "zoom_value": 0,
+          "map_top_viewport_position": 0,
+          "video_transparency_collection": {},
+          "is_label_on": false,
+          "is_blink_on": false,
+          "is_switch_layouts_on": false,
+          "is_top_view_on": false,
+          "show_offline_cameras": false,
+          "is_thumbnail_3d_on": false
+        }
+      }
+    }
+  ],
+  "special_layouts": {
+    "favorite": {
+      "id": "79f67fa8-f3a2-1de7-9181-a67b7542122c",
+      "enabled": false
+    },
+    "alarm": {
+      "id": "79f67fa8-f3a2-1de7-9181-a67b7542122c",
+      "enabled": false
+    },
+    "dynamic": {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "enabled": true
+    }
+  },
+  "use_current_layout_as_default": false,
+  "slideshows": [
+    {
+      "id": "7f5db7be-dadd-4ce2-90d2-063dfa0812ec",
+      "layouts_ids": [
+        "900f3831-ea20-4d5a-8482-92dfbeb71ff5",
+        "fc90f5f2-d539-4fb4-9635-89e2e0b7f49b"
+      ]
+    }
+  ]
+}
