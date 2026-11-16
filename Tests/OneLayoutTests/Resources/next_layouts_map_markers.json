@@ -1,0 +1,184 @@
+{
+  "collapsed_markers": [],
+  "markers": {
+    "hosts/LENOVO-PC/DeviceIpint.13/SourceEndpoint.video:0:0": {
+      "camera_marker": {
+        "field_of_view": {
+          "angle": 60.00000166965211,
+          "direction": {
+            "x": 9.22208309173584,
+            "y": -3.889585971832275
+          }
+        },
+        "immersion": {
+          "has_zoom": false,
+          "links": [],
+          "zoom": 0
+        },
+        "video_on": false
+      },
+      "component_domain": "be1e311e-c9a4-4b3d-9c1b-aaf0c8473d39",
+      "component_name": "hosts/LENOVO-PC/DeviceIpint.13/SourceEndpoint.video:0:0",
+      "display_title": false,
+      "position": {
+        "x": 0.6239190697669983,
+        "y": 0.016311176121234894
+      },
+      "position_3d": {
+        "x": 19.94981186453618,
+        "y": 0.407779399179702,
+        "z": 0
+      }
+    },
+    "hosts/LENOVO-PC/DeviceIpint.2/EventSupplier.ray0:3": {
+      "component_domain": "",
+      "component_marker": {
+        "distance": 0,
+        "parent_component_name": "hosts/LENOVO-PC/DeviceIpint.2/SourceEndpoint.video:0:0",
+        "pin_to_camera_index": 0,
+        "pinned_to": "",
+        "pinned_to_edge": "PIN_EDGE_NONE",
+        "sensor_marker": {
+        }
+      },
+      "component_name": "hosts/LENOVO-PC/DeviceIpint.2/EventSupplier.ray0:3",
+      "display_title": false,
+      "position": {
+        "x": -0.8101674318313599,
+        "y": 0.5450835824012756
+      },
+      "position_3d": {
+        "x": -25.90510302397367,
+        "y": 13.62708976846009,
+        "z": 0
+      }
+    },
+    "hosts/LENOVO-PC/DeviceIpint.2/SinkEndpoint.0": {
+      "component_domain": "",
+      "component_marker": {
+        "distance": 0,
+        "parent_component_name": "hosts/LENOVO-PC/DeviceIpint.2/SourceEndpoint.video:0:0",
+        "pin_to_camera_index": 0,
+        "pinned_to": "",
+        "pinned_to_edge": "PIN_EDGE_NONE",
+        "speaker_marker": {
+        }
+      },
+      "component_name": "hosts/LENOVO-PC/DeviceIpint.2/SinkEndpoint.0",
+      "display_title": false,
+      "position": {
+        "x": -0.2804248034954071,
+        "y": 0.6354223489761353
+      },
+      "position_3d": {
+        "x": -8.966583283056535,
+        "y": 15.88555900381575,
+        "z": 0
+      }
+    },
+    "hosts/LENOVO-PC/DeviceIpint.2/SourceEndpoint.audio:0": {
+      "component_domain": "",
+      "component_marker": {
+        "distance": 0,
+        "microphone_marker": {
+        },
+        "parent_component_name": "hosts/LENOVO-PC/DeviceIpint.2/SourceEndpoint.video:0:0",
+        "pin_to_camera_index": 0,
+        "pinned_to": "",
+        "pinned_to_edge": "PIN_EDGE_NONE"
+      },
+      "component_name": "hosts/LENOVO-PC/DeviceIpint.2/SourceEndpoint.audio:0",
+      "display_title": false,
+      "position": {
+        "x": -0.5884603261947632,
+        "y": 0.4020472168922424
+      },
+      "position_3d": {
+        "x": -18.81601883610839,
+        "y": 10.05118014581363,
+        "z": 0
+      }
+    },
+    "hosts/LENOVO-PC/DeviceIpint.2/SourceEndpoint.video:0:0": {
+      "camera_marker": {
+        "field_of_view": {
+          "angle": 60.00000166965211,
+          "direction": {
+            "x": 0,
+            "y": -12.5
+          }
+        },
+        "immersion": {
+          "has_zoom": false,
+          "links": [],
+          "zoom": 0
+        },
+        "video_on": false
+      },
+      "component_domain": "be1e311e-c9a4-4b3d-9c1b-aaf0c8473d39",
+      "component_name": "hosts/LENOVO-PC/DeviceIpint.2/SourceEndpoint.video:0:0",
+      "display_title": false,
+      "position": {
+        "x": 0.001051412895321846,
+        "y": 0.00485666049644351
+      },
+      "position_3d": {
+        "x": 0.033618927001953125,
+        "y": 0.1214165091514587,
+        "z": 0
+      }
+    },
+    "hosts/LENOVO-PC/DeviceIpint.2/StateControl.relay0:0": {
+      "component_domain": "",
+      "component_marker": {
+        "distance": 0,
+        "parent_component_name": "hosts/LENOVO-PC/DeviceIpint.2/SourceEndpoint.video:0:0",
+        "pin_to_camera_index": 0,
+        "pinned_to": "",
+        "pinned_to_edge": "PIN_EDGE_NONE",
+        "relay_marker": {
+        }
+      },
+      "component_name": "hosts/LENOVO-PC/DeviceIpint.2/StateControl.relay0:0",
+      "display_title": false,
+      "position": {
+        "x": -0.7159909605979919,
+        "y": 0.1184838488698006
+      },
+      "position_3d": {
+        "x": -22.8938106255884,
+        "y": 2.962096157058355,
+        "z": 0
+      }
+    },
+    "hosts/LENOVO-PC/DeviceIpint.5/SourceEndpoint.video:0:0": {
+      "camera_marker": {
+        "field_of_view": {
+          "angle": 60.00000166965211,
+          "direction": {
+            "x": -8.406524658203125,
+            "y": -4.51693868637085
+          }
+        },
+        "immersion": {
+          "has_zoom": false,
+          "links": [],
+          "zoom": 0
+        },
+        "video_on": false
+      },
+      "component_domain": "be1e311e-c9a4-4b3d-9c1b-aaf0c8473d39",
+      "component_name": "hosts/LENOVO-PC/DeviceIpint.5/SourceEndpoint.video:0:0",
+      "display_title": false,
+      "position": {
+        "x": -0.5729067921638489,
+        "y": -0.3475533127784729
+      },
+      "position_3d": {
+        "x": -18.31869507616568,
+        "y": -8.688832978305076,
+        "z": 0
+      }
+    }
+  }
+}

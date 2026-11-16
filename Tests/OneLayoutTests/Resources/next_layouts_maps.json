@@ -1,0 +1,248 @@
+{
+  "items": [
+    {
+      "data": {
+        "angle": 0,
+        "base_geo_position": {
+          "x": -8.470000267028809,
+          "y": 51.89722061157227
+        },
+        "icon_scale": 1,
+        "map_type_id": "D7287DA0-A7FF-405F-8166-B6BAF26D066C",
+        "name": "ggggg",
+        "parent_id": "",
+        "position": {
+          "x": -8.470000267028809,
+          "y": 51.89722061157227
+        },
+        "position_3d": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "provider_id": "D7287DA0-A7FF-405F-8166-B6BAF26D066C",
+        "size": {
+          "x": 29880.48865385045,
+          "y": 18230.16395376985,
+          "z": 0
+        },
+        "type": "MAP_TYPE_GEO",
+        "viewpoint": {
+          "center": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "zoom": 0
+        },
+        "zoom": 12
+      },
+      "meta": {
+        "access": "MAP_ACCESS_FULL",
+        "etag": "1E4F543CE62E0CE619AB33FD6310F884FEAF5905",
+        "id": "55ed06cf-6e78-4c32-a58e-f9c80b8adad9",
+        "image_etag": "55792DD3E7967BCF09E80895543F28D3F8A0DECD",
+        "name": "ggggg",
+        "sharing": {
+          "kind": "SHARING_KIND_ANY",
+          "owner": "328e3874-4a33-9dd1-29eb-44c37a44121c",
+          "shared_roles": []
+        },
+        "type": "MAP_TYPE_GEO"
+      }
+    },
+    {
+      "data": {
+        "angle": 0,
+        "base_geo_position": {
+          "x": 0,
+          "y": 0
+        },
+        "icon_scale": 1,
+        "image_meta": {
+          "file_name": "C:\Users\avgx\Pictures\annonnext_uwp_desktop.png",
+          "mime_type": "PNG",
+          "name": "da02a183-3ee9-44d6-b47f-52e9f917d6a3",
+          "size": {
+            "height": 1000,
+            "width": 1279
+          },
+          "size_bytes": "15866"
+        },
+        "map_type_id": "DE565032-BC02-4F6C-ACD0-FC7BEB453E45",
+        "name": "map 2",
+        "parent_id": "",
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "position_3d": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "provider_id": "DE565032-BC02-4F6C-ACD0-FC7BEB453E45",
+        "size": {
+          "x": 63.95,
+          "y": 50,
+          "z": 0
+        },
+        "type": "MAP_TYPE_RASTER",
+        "viewpoint": {
+          "center": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "zoom": 0
+        },
+        "zoom": 0
+      },
+      "meta": {
+        "access": "MAP_ACCESS_FULL",
+        "etag": "F564CE0BCB284FDD69CF03F5366A995EB71519C3",
+        "id": "94e64c1a-062a-40ca-bbdb-292870758c9e",
+        "image_etag": "790C287EC7CB209357C66F63BB7F66C9A2B51D8C",
+        "name": "map 2",
+        "sharing": {
+          "kind": "SHARING_KIND_ANY",
+          "owner": "328e3874-4a33-9dd1-29eb-44c37a44121c",
+          "shared_roles": []
+        },
+        "type": "MAP_TYPE_RASTER"
+      }
+    },
+    {
+      "data": {
+        "angle": 0,
+        "base_geo_position": {
+          "x": 0,
+          "y": 0
+        },
+        "icon_scale": 1,
+        "image_meta": {
+          "file_name": "C:\Users\avgx\Pictures\fotoblick1.png",
+          "mime_type": "PNG",
+          "name": "ae4c9a4e-c67a-491b-8d3f-dd420c0a982e",
+          "size": {
+            "height": 539,
+            "width": 934
+          },
+          "size_bytes": "144443"
+        },
+        "map_type_id": "DE565032-BC02-4F6C-ACD0-FC7BEB453E45",
+        "name": "qqq1",
+        "parent_id": "",
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "position_3d": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "provider_id": "DE565032-BC02-4F6C-ACD0-FC7BEB453E45",
+        "size": {
+          "x": 46.7,
+          "y": 26.95,
+          "z": 0
+        },
+        "type": "MAP_TYPE_RASTER",
+        "viewpoint": {
+          "center": {
+            "x": -1.910341501235962,
+            "y": -3.919648408889771,
+            "z": 0
+          },
+          "orientation": {
+            "x": 0,
+            "y": -0.084124082947579976,
+            "z": 0
+          },
+          "zoom": 0
+        },
+        "zoom": 0
+      },
+      "meta": {
+        "access": "MAP_ACCESS_FULL",
+        "etag": "4D3D4D0211603837F9B7783AFA8D08C7B9B3C90E",
+        "id": "a0efec29-12f7-45d7-b809-812583d0c4da",
+        "image_etag": "4DF7B11A87FDAA888445A91BA8BF39ABDD49AF84",
+        "name": "qqq1",
+        "sharing": {
+          "kind": "SHARING_KIND_ANY",
+          "owner": "328e3874-4a33-9dd1-29eb-44c37a44121c",
+          "shared_roles": []
+        },
+        "type": "MAP_TYPE_RASTER"
+      }
+    },
+    {
+      "data": {
+        "angle": 0,
+        "base_geo_position": {
+          "x": 39.70792388916016,
+          "y": 47.28179931640625
+        },
+        "icon_scale": 1,
+        "map_type_id": "32AAE9D2-CB9D-4B45-8BB8-CE180629600D",
+        "name": "гео",
+        "parent_id": "",
+        "position": {
+          "x": 39.70792388916016,
+          "y": 47.28179931640625
+        },
+        "position_3d": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "provider_id": "32AAE9D2-CB9D-4B45-8BB8-CE180629600D",
+        "size": {
+          "x": 513.2770604682912,
+          "y": 313.151671461712,
+          "z": 0
+        },
+        "type": "MAP_TYPE_GEO",
+        "viewpoint": {
+          "center": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "zoom": 0
+        },
+        "zoom": 17
+      },
+      "meta": {
+        "access": "MAP_ACCESS_FULL",
+        "etag": "04BA942FA5D4A1E74AF3D2578D8F084B3D5417F8",
+        "id": "fcab06ef-8fcd-4633-ab2d-ca60a82b7d06",
+        "image_etag": "55792DD3E7967BCF09E80895543F28D3F8A0DECD",
+        "name": "гео",
+        "sharing": {
+          "kind": "SHARING_KIND_ANY",
+          "owner": "328e3874-4a33-9dd1-29eb-44c37a44121c",
+          "shared_roles": []
+        },
+        "type": "MAP_TYPE_GEO"
+      }
+    }
+  ]
+}
